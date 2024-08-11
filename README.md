@@ -1,89 +1,11 @@
-# Welcome to My Tech Profile
+<h1 align="center">Hi 👋, I'm suhas hegde</h1>
+<h3 align="center">developer from india ,who is interested in fullstack development ,DeVops,</h3>
 
-![Header Image](https://via.placeholder.com/1200x300?text=Welcome+to+My+Tech+Profile)
+- 📫 How to reach me **hegdesuhas6@gmail.com**
 
-## About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Hello! I'm a passionate technologist with experience in a diverse set of programming languages and technologies. My expertise ranges from system programming to web development, and I have a keen interest in deep learning and automation.
-
-## Skills
-
-### Programming Languages
-![Programming Languages](https://via.placeholder.com/100x100?text=Languages)
-- **C++**: Proficient in object-oriented programming, data structures, and algorithms.
-- **Python**: Experienced in scripting, data analysis, and machine learning with libraries such as TensorFlow and PyTorch.
-
-### Web Development
-![Web Development](https://via.placeholder.com/100x100?text=Web+Dev)
-- **HTML**: Skilled in building and structuring web pages.
-- **CSS**: Expertise in styling and responsive design.
-- **JavaScript**: Proficient in creating dynamic and interactive web features.
-- **Bootstrap**: Experienced with building responsive and mobile-first designs.
-
-### Tools & Technologies
-
-#### Linux
-![Linux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
-- **Description**: A powerful, open-source operating system used for a wide range of computing tasks.
-
-#### Git
-![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
-- **Description**: A distributed version control system for tracking changes in source code.
-
-#### Jenkins
-![Jenkins](https://www.jenkins.io/images/branding/wordmark/jenkins-wordmark.svg)
-- **Description**: An open-source automation server used for continuous integration and continuous deployment (CI/CD).
-
-### Deep Learning
-
-#### TensorFlow
-![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.png)
-- **Description**: An open-source machine learning framework developed by Google for building and training models.
-
-#### PyTorch
-![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/PyTorch_logo.png)
-- **Description**: An open-source deep learning framework developed by Facebook’s AI Research lab.
-
-## Projects
-
-### Project 1: [Project Name]
-![Project 1](https://via.placeholder.com/600x400?text=Project+1)
-- **Description**: Brief description of the project.
-- **Technologies Used**: C++, Python, HTML, CSS, JavaScript
-- **Highlights**: Key achievements or features.
-
-### Project 2: [Project Name]
-![Project 2](https://via.placeholder.com/600x400?text=Project+2)
-- **Description**: Brief description of the project.
-- **Technologies Used**: Bootstrap, Linux, Git, Jenkins
-- **Highlights**: Key achievements or features.
-
-### Project 3: [Project Name]
-![Project 3](https://via.placeholder.com/600x400?text=Project+3)
-- **Description**: Brief description of the project.
-- **Technologies Used**: Deep Learning Frameworks
-- **Highlights**: Key achievements or features.
-
-## Contact
-
-Feel free to reach out to me for collaborations, questions, or just to connect!
-
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [LinkedIn Profile URL]
-- **GitHub**: [GitHub Profile URL]
-
-## Badges
-
-[![Build Status](https://img.shields.io/github/workflow/status/yourusername/yourrepo/CI)](https://github.com/yourusername/yourrepo/actions)
-[![License](https://img.shields.io/github/license/yourusername/yourrepo)](LICENSE)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Thank you for visiting my profile!
-
-![Footer Image](https://via.placeholder.com/1200x200?text=Thank+You+For+Visiting)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
